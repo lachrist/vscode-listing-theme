@@ -1,0 +1,21 @@
+{
+  "name": "listing-theme",
+  "displayName": "listing-theme",
+  "description": "A quiet theme for listing (light)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Listing",
+        "uiTheme": "vs",
+        "path": "./themes/Listing-color-theme.json"
+      }
+    ]
+  }
+}
