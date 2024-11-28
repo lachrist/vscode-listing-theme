@@ -7,8 +7,8 @@
 	},
 	"tokenColors": [
 		{
-			"name": "Variable",
-			"scope": ["variable", "meta.expression.scheme", "entity"],
+			"name": "Basic",
+			"scope": ["variable", "entity", "meta.expression.scheme"],
 			"settings": {
 				"foreground": "#000000"
 			}
@@ -69,7 +69,7 @@
 		},
 		{
 			"name": "Meta",
-			"scope": ["meta", "invalid"],
+			"scope": ["meta", "invalid", "support"],
 			"settings": {
 				"foreground": "#8B0000"
 			}
