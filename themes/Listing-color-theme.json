@@ -48,6 +48,7 @@
 				"keyword",
 				"storage.modifier",
 				"storage.type.js",
+				"storage.type.property.js",
 				"storage.type.function.js",
 				"storage.type.function.arrow.js",
 				"storage.type.class.js",
