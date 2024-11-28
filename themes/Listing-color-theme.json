@@ -46,6 +46,7 @@
 			"name": "Keyword",
 			"scope": [
 				"keyword",
+				"keyword.operator.new",
 				"storage.modifier",
 				"storage.type.js",
 				"storage.type.property.js",
