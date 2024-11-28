@@ -1,6 +1,8 @@
 {
   "name": "listing-theme",
   "displayName": "listing-theme",
+  "repository": "http://github.com/lachrist/vscode-listing-theme",
+  "author": "lachrist",
   "description": "A quiet theme for listing (light)",
   "version": "0.0.1",
   "engines": {

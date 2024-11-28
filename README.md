@@ -1,6 +1,6 @@
 # Listing Theme
 
-A quiet light theme suitable for highlighting listing in documents.
+A quiet light theme suitable for highlighting listing syntax in documents.
 
 Tested for:
   - JavaScript
