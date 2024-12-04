@@ -23,7 +23,7 @@
 		},
 		{
 			"name": "Punctuation",
-			"scope": ["punctuation", "keyword.operator"],
+			"scope": ["punctuation"],
 			"settings": {
 				"foreground": "#888888"
 			}
@@ -46,7 +46,6 @@
 			"name": "Keyword",
 			"scope": [
 				"keyword",
-				"keyword.operator.new",
 				"storage.modifier",
 				"storage.type.js",
 				"storage.type.property.js",
